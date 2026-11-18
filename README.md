@@ -10,6 +10,7 @@ KELOMPOK 1
 7. Maqbul Fath ( G1A025056 )
 8. Raja Marganda ( G1A025086 )
 9. M. Fakhrury Qhenno Afkar (G1A025098)
+10. Muhammad Fadhil Rizky Sakti (G1A025036)
 
 Repositori ini dibuat untuk memenuhi tugas mata kuliah **Organisasi dan Arsitektur Komputer** (Universitas Bengkulu). Proyek ini menjalankan, memvisualisasikan, dan menganalisis notebook Kaggle berjudul **"direct_loss_estimation (nannyml)"** karya Samuele Mazzanti menggunakan **Superconductor Dataset** melalui **Google Colab**.
 
