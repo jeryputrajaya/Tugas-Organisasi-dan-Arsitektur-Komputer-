@@ -1,5 +1,16 @@
 # Tugas Organisasi dan Arsitektur Komputer: Direct Loss Estimation (NannyML)
 
+KELOMPOK 1 
+1. Jery Putra Jaya ( G1A025002 )
+2. Naufal Faris KS ( G1A025014 )
+3. Ahmad Najib R ( G1A025022 )
+4. M. Azhar Robbani ( G1A025032 )
+5. Karel Desvalyudho ( G1A025040 )
+6. M. Daffa Atallah Putra (G1A025044)
+7. Maqbul Fath ( G1A025056 )
+8. Raja Marganda ( G1A025086 )
+9. M. Fakhrury Qhenno Afkar (G1A025098)
+
 Repositori ini dibuat untuk memenuhi tugas mata kuliah **Organisasi dan Arsitektur Komputer** (Universitas Bengkulu). Proyek ini menjalankan, memvisualisasikan, dan menganalisis notebook Kaggle berjudul **"direct_loss_estimation (nannyml)"** karya Samuele Mazzanti menggunakan **Superconductor Dataset** melalui **Google Colab**.
 
 ---
